@@ -1,0 +1,13 @@
+/* Body container style start */
+.body_container {
+  border: 3px solid red;
+  height: 125vh;
+  margin: 5% 10% 10%;
+}
+/* Body container style end */
+
+/* Card style start */
+.card {
+  height: 20%;
+}
+/* Card style end */
